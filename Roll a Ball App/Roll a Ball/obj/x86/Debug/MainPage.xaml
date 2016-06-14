@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="Roll_a_Ball.MainPage"
+    IsTabStop="false"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Roll_a_Ball"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <SwapChainPanel x:ConnectionId='1' x:Name="DXSwapChainPanel">
+        <Grid x:ConnectionId='2' x:Name="ExtendedSplashGrid" Background="#222C37">
+            <Image x:ConnectionId='3' x:Name="ExtendedSplashImage" Source="Assets/SplashScreen.png" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        </Grid>
+    </SwapChainPanel>
+</Page>
+

@@ -1,0 +1,4 @@
+C:\Users\sharpejames\Documents\Roll a Ball\Roll a Ball App\Roll a Ball\Roll a Ball.csproj;x86
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86

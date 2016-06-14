@@ -1,0 +1,16 @@
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\bin\x64\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\bin\x64\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\bin\x64\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\priconfig.xml
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\priconfig.xml.intermediate
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\layout.resfiles
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\layout.resfiles.intermediate
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\resources.resfiles
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\resources.resfiles.intermediate
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\pri.resfiles
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\pri.resfiles.intermediate
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\qualifiers.txt
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\qualifiers.txt.intermediate
+C:\Users\sharpejames\Documents\Roll a Ball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\MultipleQualifiersPerDimensionFound.txt
